@@ -1,0 +1,11 @@
+{
+    "books": [
+        {
+            "title": "harry potter and the sorcerers stone",
+            "author": "J.K. rowling",
+            "pages": 400,
+            "genre": "Fiction",
+            "read": true
+        }
+    ]
+}
